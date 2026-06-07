@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Tanvi Sharma 
 **A passionate Full Stack MERN Developer**
 Email Me 👉 ✉️ **ts6613715@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** Web apps
 - 🌱 **I’m currently learning:** AWS, Kubernetes🚀
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ts6613715@gmail.com 

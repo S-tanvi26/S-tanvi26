@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **ts6613715@gmail.com** For Collaboration/Project or Anythi
 - 😄 **Location:** Indian
 - ⚡ **Fun fact:** "Code. Build. Deploy. Repeat." 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvi-sharma/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ts6613715@gmail.com ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvi-sharma-a78364362/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ts6613715@gmail.com ) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
